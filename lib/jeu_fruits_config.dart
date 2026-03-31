@@ -14,7 +14,7 @@ const List<FruitJeu> fruitsJeuDisponibles = [
   FruitJeu(chemin: 'assets/mag.jpg', nom: 'Mangue'),
   FruitJeu(chemin: 'assets/mand.jpg', nom: 'Mandarine'),
   FruitJeu(chemin: 'assets/mel.jpg', nom: 'Melon'),
-  FruitJeu(chemin: 'assets/pas.jpg', nom: 'Fruit de la passion'),
+  FruitJeu(chemin: 'assets/pas.jpg', nom: 'Pastèque'),
   FruitJeu(chemin: 'assets/pec.jpg', nom: 'Pêche'),
   FruitJeu(chemin: 'assets/rai.jpg', nom: 'Raisin'),
 ];

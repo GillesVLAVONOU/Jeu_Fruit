@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     const SizedBox(height: 12),
                     Text(
-                      'Votre espace\nmultimédia',
+                      'Votre espace\nde distraction',
                       textAlign: TextAlign.center,
                       style: theme.textTheme.headlineMedium?.copyWith(
                         color: Colors.white,
